@@ -1,1 +1,1 @@
-
+This Twitter dataset includes 100k tweets related to a specific subject within a specific time frame. I analyzed the data to identify countries with more than 1,000 tweets in this dataset. After careful cleaning and preparation, I visualized the finding in an interactive map by using Folium.
